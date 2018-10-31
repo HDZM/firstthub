@@ -1,3 +1,3 @@
 # firstthub
-我的第一个小程
-hello,new world!
+我的第一个小程序
+hello,rubbish world.
